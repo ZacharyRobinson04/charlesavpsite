@@ -5,7 +5,7 @@
 /* DEFAULT STYLE: FONT SIZE, BACKGROUND IMAGE, FONT, ETC. */
 :root {
   font-size: 24px;
-  background-image: url("cs_office.png");
+  background-image: url("images/cs_office.png");
   image-rendering: pixelated;
   height: 100%;
   font-family: 'VT323';       /* DEFAULT FONT */
