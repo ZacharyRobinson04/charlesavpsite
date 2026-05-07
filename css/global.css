@@ -6,12 +6,23 @@
 :root {
   font-size: 24px;
   background: 
-    repeating-conic-gradient(#ceffde 0 25%, #f9e4f3 0 50%) 50% / 2rem 2rem;
+    repeating-conic-gradient(#b3ffcc 0 25%, #fe95de 0 50%) 
+      50% / 20px 20px;
   image-rendering: pixelated;
   height: 100%;
   font-family: 'VT323';       /* DEFAULT FONT */
   background-size: cover;
 }
+
+/* BACKGROUND IMAGES */
+.dew {
+    background-image: url("images/morning_dew.png");
+}
+
+.snowy {
+  background-image: url("images/snowy.png");
+}
+/* END BACKGROUND IMAGES */
 
 /* ELEMENT STYLES BELOW */
 h1 a {
@@ -28,6 +39,7 @@ header {
 }
 header h1 {
   text-align: center;
+  font-family: 'ps2';
   font-size: 3rem;
   font-weight: 100;
   margin-top: 2rem;
