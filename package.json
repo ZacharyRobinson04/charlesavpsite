@@ -1,0 +1,16 @@
+{
+  "name": "my_awesome_website",
+  "version": "999.999.9999",
+  "description": "my super awesome and cool website with all my stuff on it",
+  "license": "ISC",
+  "author": "JF",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
