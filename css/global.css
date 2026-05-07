@@ -5,7 +5,9 @@
 /* DEFAULT STYLE: FONT SIZE, BACKGROUND IMAGE, FONT, ETC. */
 :root {
   font-size: 24px;
-  background-image: url("images/cs_office.png");
+  background: 
+    repeating-conic-gradient(#b3ffcc 0 25%, #fe95de 0 50%) 
+      50% / 20px 20px;
   image-rendering: pixelated;
   height: 100%;
   font-family: 'VT323';       /* DEFAULT FONT */
