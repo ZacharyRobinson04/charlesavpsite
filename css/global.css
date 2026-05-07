@@ -2,12 +2,6 @@
 /* MAIN FONT */
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
-/* PS2 HEADER FONT */
-@font-face {
-  font-family: 'ps2';
-  src: url("/fonts/ps2.ttf") format('truetype');
-}
-
 /* DEFAULT STYLE: FONT SIZE, BACKGROUND IMAGE, FONT, ETC. */
 :root {
   font-size: 24px;
