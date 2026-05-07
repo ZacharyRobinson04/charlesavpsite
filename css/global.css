@@ -5,7 +5,7 @@
 /* DEFAULT STYLE: FONT SIZE, BACKGROUND IMAGE, FONT, ETC. */
 :root {
   font-size: 24px;
-  background-image: url("/images/cs_office.png");
+  background-image: url("images/cs_office.png");
   image-rendering: pixelated;
   height: 100%;
   font-family: 'VT323';       /* DEFAULT FONT */
@@ -14,11 +14,11 @@
 
 /* BACKGROUND IMAGES */
 .dew {
-    background-image: url("/images/morning_dew.png");
+    background-image: url("images/morning_dew.png");
 }
 
 .snowy {
-  background-image: url("/images/snowy.png");
+  background-image: url("images/snowy.png");
 }
 /* END BACKGROUND IMAGES */
 
